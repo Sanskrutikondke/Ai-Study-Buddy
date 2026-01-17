@@ -15,6 +15,10 @@ An interactive AI-powered assistant that helps you "chat" with your study materi
 ![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge&logo=groq&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-3a6796?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## 🚀 Deployment
+Check out the live app here:
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-study-buddy-gptwemaiq7aa35kfilb8xn.streamlit.app/)
+
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository:**
