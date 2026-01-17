@@ -23,5 +23,5 @@ Check out the live app here:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/sanskruti_kondke/ai-study-buddy.git](https://github.com/sanskruti_kondke/ai-study-buddy.git)
+   git clone [https://github.com/Sanskrutikondke/Ai-Study-Buddy.git](https://github.com/Sanskrutikondke/Ai-Study-Buddy.git)
    cd ai-study-buddy
