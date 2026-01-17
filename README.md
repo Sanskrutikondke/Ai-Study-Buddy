@@ -19,5 +19,5 @@ An interactive AI-powered assistant that helps you "chat" with your study materi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/ai-study-buddy.git](https://github.com/YOUR_USERNAME/ai-study-buddy.git)
+   git clone [https://github.com/sanskruti_kondke/ai-study-buddy.git](https://github.com/sanskruti_kondke/ai-study-buddy.git)
    cd ai-study-buddy
