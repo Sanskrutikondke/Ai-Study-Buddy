@@ -1,0 +1,19 @@
+# Web Interface
+streamlit
+
+# Core AI Orchestration (Version 0.3+)
+langchain>=0.3.0
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Google Gemini Integration
+langchain-google-genai
+
+# Document Processing
+pypdf
+pandas
+
+# Database & Environment
+langchain-chroma
+python-dotenv
