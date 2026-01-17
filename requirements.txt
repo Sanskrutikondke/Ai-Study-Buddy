@@ -1,19 +1,25 @@
 # Web Interface
 streamlit
 
-# Core AI Orchestration (Version 0.3+)
+# Core AI Orchestration
 langchain>=0.3.0
 langchain-core
 langchain-community
 langchain-text-splitters
 
-# Google Gemini Integration
+# AI Model Providers
+langchain-groq
 langchain-google-genai
+
+# Embeddings & Vector Database
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+chromadb
 
 # Document Processing
 pypdf
 pandas
 
-# Database & Environment
-langchain-chroma
+# Utilities
 python-dotenv
